@@ -3,3 +3,5 @@
 [Социальная платформа Golos.io](https://github.com/GolosChain/apps/blob/master/sites/golos-io.md)
 
 [Обозреватель блоков Golos Explorer](https://github.com/GolosChain/apps/blob/master/developers/golos-explorer.md)
+
+[Сайт OnePlace](https://github.com/GolosChain/apps/blob/master/sites/oneplace.md)
