@@ -38,4 +38,4 @@ GitHub: [GolosChain/tolstoy](https://github.com/GolosChain/tolstoy)
 Есть предложения, как сделать Golos.io лучше? Пишите предложения в Issues на нашем Github или в наш Телеграм-канал!
 
 ### Теги
-[сайт](https://github.com/GolosChain/apps/sites/)
+[сайт](https://github.com/GolosChain/apps/tree/master/sites)
