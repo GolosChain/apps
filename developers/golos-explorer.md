@@ -26,4 +26,4 @@ GitHub: [GolosChain/golos-explorer](https://github.com/GolosChain/golos-explorer
 Телеграм для ваших вопросов: [@golos_tools](https://t.me/golos_tools)
 
 ### Теги
-[для_разработчиков](https://github.com/GolosChain/apps/developers/)
+[для_разработчиков](https://github.com/GolosChain/apps/tree/master/developers)
